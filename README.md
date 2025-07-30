@@ -54,7 +54,7 @@
 
 ### 🐍 Contribution Snake
 
-![snake gif](https://github.com/Rishikesh11kr/Rishikesh11kr/blob/output/snake.svg)
+![snake gif](https://github.com/blob/output/snake.svg)
 
 ---
 
